@@ -10,4 +10,4 @@ EOS_STPA_ICM_SRM_CSM.pdf: Three-layer scenario–system interaction modeling for
 
 EOS_STPA_Safety_Analysis_Tables.docx: Tables defining lane-change losses, hazards, expert-identified UCAs and SSCs, and LLM candidate screening and derived SSCs.
 
-LLM_Assisted_SSC_Elicitation_Dialogue.docx: Complete prompts, LLM responses, expert feedback, screening records, and SSC-related penalty formulation for the LLM-assisted SSC identification and operationalization process.
+LLM_Assisted_SSC_Elicitation_Dialogue.docx: Complete prompts, LLM responses, expert feedback, and screening records for the LLM-assisted SSC elicitation process, together with supplementary LLM suggestions for subsequent SSC-related penalty design.
